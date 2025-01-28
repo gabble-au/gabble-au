@@ -14,26 +14,13 @@ The recording can be accessed on our YouTube [here](https://www.youtube.com/watc
 
 TikTok [here](https://www.tiktok.com/@gabble__au)
 
-### Header 3
+## Grammar Watch Archive
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+The Grammar Watch archive can be found [here](./another-page.html).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
