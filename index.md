@@ -13,6 +13,7 @@ The recording can be accessed on our YouTube [here](https://www.youtube.com/watc
 ## TikTok
 
 TikTok [here](https://www.tiktok.com/@gabble__au)
+Otherplaces [here](https://linktr.ee/gabble__au)
 
 ## Grammar Watch Archive
 
