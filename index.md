@@ -18,15 +18,17 @@ TikTok [here](https://www.tiktok.com/@gabble__au)
 
 The Grammar Watch archive can be found [here](./another-page.html).
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 
-## Newsletter 
 
-Sign up [here] (https://docs.google.com/forms/d/e/1FAIpQLSddB9A4faa-1CfuFpYQ96Wo4xk2mbzJXHQJeFpAtmb8beZ3kQ/viewform?usp=header)
+## Gabble Newsletter 
+
+Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSddB9A4faa-1CfuFpYQ96Wo4xk2mbzJXHQJeFpAtmb8beZ3kQ/viewform?usp=header)
 
 #### Header 4
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
