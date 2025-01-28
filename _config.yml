@@ -1,7 +1,7 @@
 title: Gabble
 logo: /assets/img/logo.png
 description: Gabble is an arts and crafts project from B545 Production House
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
