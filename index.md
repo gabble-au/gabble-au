@@ -24,7 +24,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Newsletter 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddB9A4faa-1CfuFpYQ96Wo4xk2mbzJXHQJeFpAtmb8beZ3kQ/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Sign up [here] (https://docs.google.com/forms/d/e/1FAIpQLSddB9A4faa-1CfuFpYQ96Wo4xk2mbzJXHQJeFpAtmb8beZ3kQ/viewform?usp=header)
 
 #### Header 4
 
