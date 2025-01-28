@@ -22,9 +22,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 
-There should be whitespace between paragraphs.
+## Newsletter 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddB9A4faa-1CfuFpYQ96Wo4xk2mbzJXHQJeFpAtmb8beZ3kQ/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 #### Header 4
 
