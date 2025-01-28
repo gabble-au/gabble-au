@@ -8,13 +8,11 @@ As a provision of the Gabble Charter, we are mandated to annually review minor g
 
 Our 2024 report was broadcast on Channel 31 on Christmas Day 2024.
 
-The recording can be accessed  [here](https://www.youtube.com/watch?v=7UuZpHoXziU).
+The recording can be accessed on our YouTube [here](https://www.youtube.com/watch?v=7UuZpHoXziU).
 
-## Header 2
+## TikTok
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+TikTok [here] (https://www.tiktok.com/@gabble__au)
 
 ### Header 3
 
