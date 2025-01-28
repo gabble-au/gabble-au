@@ -12,7 +12,7 @@ The recording can be accessed on our YouTube [here](https://www.youtube.com/watc
 
 ## TikTok
 
-TikTok [here] (https://www.tiktok.com/@gabble__au)
+TikTok [here](https://www.tiktok.com/@gabble__au)
 
 ### Header 3
 
