@@ -4,7 +4,7 @@ layout: default
 
 # Gabble Corrects 2024
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+As a provision of the Gabble Charter, we annually chart minor gramatical transgressions across global media.
 
 ## Header 2
 
