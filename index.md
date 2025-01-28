@@ -4,9 +4,11 @@ layout: default
 
 # Gabble Corrects 2024
 
->As a provision of the Gabble Charter, we annually chart minor gramatical transgressions across global media.
+As a provision of the Gabble Charter, we annually chart minor gramatical transgressions across global media.
+
 Our 2024 report was broadcast on Channel 31 on Christmas Day 2024.
-The recording can be accesed  [here](https://www.youtube.com/watch?v=7UuZpHoXziU).
+
+The recording can be accessed  [here](https://www.youtube.com/watch?v=7UuZpHoXziU).
 
 ## Header 2
 
