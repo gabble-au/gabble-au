@@ -35,6 +35,7 @@ The Grammar Watch archive can be found [here](./another-page.html).
 ## The Gabbler
 
 Sign up to our newsletter [here](https://docs.google.com/forms/d/e/1FAIpQLSddB9A4faa-1CfuFpYQ96Wo4xk2mbzJXHQJeFpAtmb8beZ3kQ/viewform?usp=header)
+Subscribe to the print edition [here](https://docs.google.com/forms/d/e/1FAIpQLSddB9A4faa-1CfuFpYQ96Wo4xk2mbzJXHQJeFpAtmb8beZ3kQ/viewform?usp=header)
 
 ***
 
